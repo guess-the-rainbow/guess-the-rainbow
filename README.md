@@ -1,6 +1,6 @@
 # Guess the Rainbow
 
-Test your deductive reasoning in Guess The Rainbow! Guess The Rainbow (GTR) is Wordle-like game where users pick colors to guess a combination of colors in a predetermined order. This game's target audience is pre-readers, non-English readers, as well as the reading-impaired community.
+Welcome to Guess The Rainbow (GTR)! Test your deductive reasoning and find the secret rainbow combination in this Wordle-inspired puzzle. GTR's target audience is pre-readers, non-English readers, as well as the reading-impaired community.
 
 ## Technologies
 
