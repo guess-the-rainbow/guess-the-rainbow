@@ -2,7 +2,7 @@
 
 Welcome to Guess The Rainbow (GTR)! Test your deductive reasoning and find the secret rainbow combination in this Wordle-inspired puzzle. GTR's target audience is pre-readers, non-English readers, as well as the reading-impaired community.
 
-![Guess The Rainbow screenshot](./images/ "Guess The Rainbow screenshot")
+![Guess The Rainbow screenshot](./images/GTR-win.png "Guess The Rainbow screenshot")
 
 ## Technologies
 
