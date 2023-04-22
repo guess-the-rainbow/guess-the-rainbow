@@ -4,7 +4,7 @@ Test your deductive reasoning in Guess The Rainbow! Guess The Rainbow (GTR) is W
 
 ## Technologies
 
-GTR utilizes HTML5; CSS3; and vanilla, ES6 JavaScript thoughout the codebase. 
+GTR utilizes HTML5; CSS3; and vanilla, ES6 JavaScript thoughout the codebase. User gamestate is saved to brower LocalStorage and will reload the last completed round when users navigate away from the page during a round.
 
 ## Links and Resources
 
