@@ -3,7 +3,7 @@
 A puzzle game in the sprit of 'Wordle' where players exercise their reasoning by determining secret combination of hues. This game's target audience includes:
 - pre-readers (young ones)
 - non-English speakers
-- as well as the reading-impaired
+- gamers with reading challenges or disabilities
 
 ## Authors: 
 - [Rhea Carillo](https://github.com/RheaMimiCarillo)
